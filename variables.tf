@@ -8,8 +8,6 @@ variable "tags" {
         source  = "citadel"
         env     = "training"
     }
-
-    
 }
 
 variable "webapplocs" {
